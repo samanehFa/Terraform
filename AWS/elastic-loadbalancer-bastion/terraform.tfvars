@@ -1,0 +1,7 @@
+vpc_id = ""
+ami_image = ""
+instance_type = "t3.micro"
+base_region = "ap-northeast-3"
+subnet_id_private = ""
+subnet_id_public1 = ""
+subnet_id_public2 = ""
